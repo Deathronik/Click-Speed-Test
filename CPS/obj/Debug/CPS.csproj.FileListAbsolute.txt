@@ -1,0 +1,10 @@
+C:\Users\Deathronik\Desktop\Learn\Learn_cs\CPS\CPS\bin\Debug\CPS.exe.config
+C:\Users\Deathronik\Desktop\Learn\Learn_cs\CPS\CPS\bin\Debug\CPS.exe
+C:\Users\Deathronik\Desktop\Learn\Learn_cs\CPS\CPS\bin\Debug\CPS.pdb
+C:\Users\Deathronik\Desktop\Learn\Learn_cs\CPS\CPS\obj\Debug\CPS.csprojAssemblyReference.cache
+C:\Users\Deathronik\Desktop\Learn\Learn_cs\CPS\CPS\obj\Debug\CPS.Properties.Resources.resources
+C:\Users\Deathronik\Desktop\Learn\Learn_cs\CPS\CPS\obj\Debug\CPS.csproj.GenerateResource.cache
+C:\Users\Deathronik\Desktop\Learn\Learn_cs\CPS\CPS\obj\Debug\CPS.csproj.CoreCompileInputs.cache
+C:\Users\Deathronik\Desktop\Learn\Learn_cs\CPS\CPS\obj\Debug\CPS.exe
+C:\Users\Deathronik\Desktop\Learn\Learn_cs\CPS\CPS\obj\Debug\CPS.pdb
+C:\Users\Deathronik\Desktop\Learn\Learn_cs\CPS\CPS\obj\Debug\CPS.CPS.resources
